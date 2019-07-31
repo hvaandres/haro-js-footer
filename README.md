@@ -5,7 +5,7 @@
 Install with the command:
 
 '''
-npm install --save HARO-JS-FOOTER
+npm install --save haro-js-footer
 
 '''
 
