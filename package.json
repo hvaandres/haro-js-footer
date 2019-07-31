@@ -1,0 +1,25 @@
+{
+  "name": "haro-js-footer",
+  "version": "0.1.0",
+  "description": "This module allows for dynamic footer to be genrated for JS applications with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hvaandres/haro-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Andres Haro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hvaandres/haro-js-footer/issues"
+  },
+  "homepage": "https://github.com/hvaandres/haro-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
